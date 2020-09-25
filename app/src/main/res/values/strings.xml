@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GPA_R01876070_Calculator</string>
+    <string name="first_class">First Class</string>
+    <string name="second_class" >Second Class</string>
+    <string name="third_class" >Third Class</string>
+    <string name="fourth_class" >Fourth Class</string>
+    <string name="fifth_class" >Fifth Class</string>
+    <string name="calculate_gpa" >Calculate GPA</string>
+    <string name="your_final_gpa_will_appear_here" >Your final GPA will appear here!</string>
+    <string name="nick_c_s_gpa_calculator" >Nick C\'s GPA Calculator</string>
+    <string name="grade" >Grade</string>
+    <string name="credits_earned" >Credits Earned</string>
+</resources>
